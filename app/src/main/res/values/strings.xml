@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="ready_to_play_some_games">Ready to play some games ?</string>
+    <string name="lets_play_a_game">Lets Play A Game</string>
+    <string name="roll">Roll</string>
+    <string name="roll_label">Roll</string>
+    <string name="adder">Adder</string>
+    <string name="lets_add_1_to_it">Lets Add 1 to it</string>
+    <string name="count_up" />
+    <string name="press_the_button_below_to_add_1_to_he_output">Press The Button Below To Add 1 To he Output</string>
+    <string name="add_1">Add 1</string>
+    <string name="hello">Hello</string>
+</resources>
